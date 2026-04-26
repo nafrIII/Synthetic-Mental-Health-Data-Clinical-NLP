@@ -1,0 +1,24 @@
+{
+  "distilbert": {
+    "distilbert_synthetic_ML_ZS_loss": 1.992942214012146,
+    "distilbert_synthetic_ML_ZS_macro_precision": 0.2565026352126089,
+    "distilbert_synthetic_ML_ZS_macro_recall": 0.28233189176581,
+    "distilbert_synthetic_ML_ZS_macro_f1": 0.2559478164221414,
+    "distilbert_synthetic_ML_ZS_macro_roc_auc_ovr": 0.5443192640140505,
+    "distilbert_synthetic_ML_ZS_runtime": 1.0458,
+    "distilbert_synthetic_ML_ZS_samples_per_second": 3388.838,
+    "/users/lia23ahp/NLP/outputs/models/classifiers/distilbert_synthetic_ML_ZS_steps_per_second": 13.387,
+    "distilbert_synthetic_ML_ZS_epoch": 2.0
+  },
+  "mentalbert": {
+    "mentalbert_synthetic_ML_ZS_loss": 2.228522539138794,
+    "mentalbert_synthetic_ML_ZS_macro_precision": 0.23270901692004278,
+    "mentalbert_synthetic_ML_ZS_macro_recall": 0.2813162474232426,
+    "mentalbert_synthetic_ML_ZS_macro_f1": 0.24436831820446617,
+    "mentalbert_synthetic_ML_ZS_macro_roc_auc_ovr": 0.554383162848963,
+    "mentalbert_synthetic_ML_ZS_runtime": 1.4386,
+    "mentalbert_synthetic_ML_ZS_samples_per_second": 2463.571,
+    "mentalbert_synthetic_ML_ZS_steps_per_second": 9.732,
+    "mentalbert_synthetic_ML_ZS_epoch": 2.0
+  }
+}

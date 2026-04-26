@@ -1,0 +1,24 @@
+{
+  "distilbert": {
+    "distilbert_syn_fal_ZS_0_6_loss": 2.0525593757629395,
+    "distilbert_syn_fal_ZS_0_6_macro_precision": 0.19381993634779193,
+    "distilbert_syn_fal_ZS_0_6_macro_recall": 0.2250670916694839,
+    "distilbert_syn_fal_ZS_0_6_macro_f1": 0.19156289417815442,
+    "distilbert_syn_fal_ZS_0_6_macro_roc_auc_ovr": 0.5360825294452811,
+    "distilbert_syn_fal_ZS_0_6_runtime": 1.1203,
+    "distilbert_syn_fal_ZS_0_6_samples_per_second": 3163.407,
+    "distilbert_syn_fal_ZS_0_6_steps_per_second": 12.497,
+    "distilbert_syn_fal_ZS_0_6_epoch": 2.0
+  },
+  "mentalbert": {
+    "mentalbert_syn_fal_ZS_0_6_loss": 2.489285945892334,
+    "mentalbert_syn_fal_ZS_0_6_macro_precision": 0.19669260668511582,
+    "mentalbert_syn_fal_ZS_0_6_macro_recall": 0.23711972280396082,
+    "mentalbert_syn_fal_ZS_0_6_macro_f1": 0.20120372330223463,
+    "mentalbert_syn_fal_ZS_0_6_macro_roc_auc_ovr": 0.5340727456159793,
+    "mentalbert_syn_fal_ZS_0_6_runtime": 1.5058,
+    "mentalbert_syn_fal_ZS_0_6_samples_per_second": 2353.504,
+    "mentalbert_syn_fal_ZS_0_6_steps_per_second": 9.297,
+    "mentalbert_syn_fal_ZS_0_6_epoch": 2.0
+  }
+}
